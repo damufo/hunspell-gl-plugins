@@ -1,0 +1,904 @@
+Datos a partir dos rexistros de Github (https://github.com/meixome/hunspell-gl)
+
+Cambios desde a versión 13.10.1
+===============================
+
++ ceg (novo)
+    • Baseado en publicacións da Confederación de Empresarios de Galicia.
+    • O módulo contén os seguintes submódulos baseados en documentos
+      publicados pola universidade que inclúen listas de palabras:
+        • abreviaturas
+        • siglas
+        • símbolos
+
+• comunidade/suxestións:
+    + -á, -án → -ana, -ano
+    + -aba → -ía
+    + alxebraico → alxébrico
+    + -ana, -ano → -á, -án
+    + andiven → andei
+    + chaval → rapaz
+    + cián → ciano
+    + columpiar → arrandear
+    + columpio → randeeira
+    + decodificar → descodificar
+    + -iles → ís
+    + -íles → ís
+    + prexuizoso → prexudicial
+    + rexerar → rexenerar
+    + satisface → satisfai
+    + satisfaceu → satisfixo
+    + sust- → subst-
+    + -ubo → -ivo
+    + -xo → -ciu
+
+• comunidade/vocabulario:
+    + ab init.
+    + abraiante
+    + acrítico
+    + activábel
+    + activable
+    + adaptativo
+    + adicionar
+    + aeróbico
+    + amordiscar
+    + anaeróbico
+    + argumentativo
+    + atresadamente
+    + autoestima
+    + autopropagar
+    + autótrofo
+    + BlackBerry
+    + bianualmente
+    + bidimensional
+    + bienalmente
+    + bitcoin
+    + C-3PO
+    + cablear
+    + canalizador
+    + cantarín
+    + cartelaría
+    + celacanto
+    + clúster
+    + códec
+    + cohesionado
+    + conectividade
+    + conexionado
+    + consensuado
+    + controverso
+    + conversor
+    + Ctrl, CTRL
+    + desactivación
+    + desaglutinado
+    + descodificación
+    + despazo
+    + despregábel
+    + despregable
+    + dialogante
+    + disciplinariamente
+    + discrecionalidade
+    + disruptivo
+    + Dropbox
+    + documentador
+    + ecualizador
+    + editábel, editable
+    + electronicamente
+    + elevadísimo
+    + emocionalmente
+    + enchemento
+    + exhaustividade
+    + expansor
+    + expedientado
+    + exponencialmente
+    + extraescolar
+    + fotocopiábel, fotocopiable
+    + futbolisticamente
+    + GitHub
+    + Gmail
+    + grupal
+    + hexadecimal
+    + homón
+    + hunspell, Hunspell
+    + impredicíbel, impredicible
+    + imprimíbel
+    + imprimible
+    + incentivador
+    + indesexado
+    + iniciábel, iniciable
+    + interconectar
+    + intercultural
+    + interdisciplinar
+    + interpersoal
+    + interrelacionado
+    + Interviú
+    + inusual
+    + invasivo
+    + iOS
+    + iPad
+    + iPhone
+    + lésbico
+    + ligábel, ligable
+    + lonxano
+    + macro
+    + Maiús, MAIÚS
+    + medianoite
+    + mediático
+    + meteoroloxicamente
+    + minusvalorado
+    + minusvalorar
+    + mitoloxicamente
+    + monitorizar
+    + morbidamente
+    + mullerona
+    + multiplataforma
+    + multipunto
+    + Nobita
+    + nomeadamente
+    + normativamente
+    + Office
+    + ofimático
+    + orzamentado
+    + orzamentar
+    + Panoramio
+    + participativo
+    + paseniñamente
+    + penalmente
+    + percusivo
+    + personalizábel
+    + personalizable
+    + pervivencia
+    + poboacional
+    + porosamente
+    + postural
+    + potestativamente
+    + predefinido
+    + preditor
+    + pregábel
+    + pregable
+    + priorizar
+    + profesionalización
+    + profesionalizar
+    + profundamento
+    + promocional
+    + recalcular
+    + redenominar
+    + refritir
+    + renormativización
+    + reprografado
+    + reprografar
+    + respaldar
+    + retroalimentación
+    + reutilizar
+    + revitalizante
+    + salvapantallas
+    + Sangriña
+    + secuencialmente
+    + semidestruído
+    + sobrepasar
+    + sobresdrúxulo
+    + sostibilidade
+    + submódulo
+    + sumativo
+    + sumatorio
+    + supraterritorial
+    + tacaño
+    + tecnotrónico
+    + tímbrico
+    + tóner
+    + varapau
+    + vencellado
+    + vencellar
+    + vocalmente
+    + VOLG, volga, VOLGa
+    + xemente
+    + xentalla
+    + xudicialización
+    + xudicializado
+    + xudicializar
+
+• galipedia → wikipedia/gl
+
+• iso4217 (actualizouse)
+• iso639 (actualizouse)
+
++ microsoft (novo)
+    • Baseado da guía de estilo de Microsoft para a localización de software ao
+      galego.
+    • O módulo contén «abreviaturas.dic», con abreviaturas frecuentes listadas
+      na guía de estilo.
+
+• norma
+    • Engadíronse números enteiros, decimais e porcentaxes.
+    • Engadíronse números ordinais. Por exemplo: 1.ª, 23ª, 456.º, 7890º.
+
++ rag/es-gl (novo)
+    • Baseado no dicionario Castelán-Galego de 2004 da Real Academia Galega.
+    • O módulo contén «vocabulario.dic» co seguinte vocabulario:
+        • encartábel, encartable
+        • pregábel, pregable
+
++ rag/gl (novo)
+    • Baseado no dicionario da Real Academia Galega.
+    • Substitúe ao «volga» como módulo principal de vocabulario.
+    • O módulo contén dous ficheiros de vocabulario e dous :
+        • «correcto.dic» está copiado do módulo «volga», a partir do cal recibiu os seguintes cambios:
+            + ADP
+            + ADSL
+            + agregador
+            + antepretérito
+            + antivirus
+            + autocompletar
+            + autoenchemento, autoencher
+            + báner
+            + biobibliografía
+            + biosbardo
+            + blog, blogueiro
+            + booleano
+            + caché
+            + cariña
+            + carrocería, carrozaría
+            + CD
+            + cedé
+            + ciano
+            + cibercafé
+            + colocalización
+            + copretérito
+            + corretor, corretoría
+            + descodificador
+            + desencriptar
+            + desenvolvedor de software
+            + deuvedé
+            + DVD
+            + emoticona
+            + encamiñador, encamiñamento
+            + encriptar
+            + enlazador
+            + escaneamento
+            + escalabilidade
+            + extranet
+            + fonte monoespazo
+            + formatar
+            + hipertexto
+            + interactuar
+            + informatizado
+            + internauta
+            + interoperabilidade
+            + intranet
+            + Marte
+            + maxenta
+            + megabyte, MB
+            + mensaxaría, mensaxería
+            + metaetiqueta
+            + microblog
+            + microprograma
+            + micrositio
+            + monoclino
+            + multimedia
+            + multiusuario
+            + navegador
+            + Neptuno
+            + ofimática
+            + píxel, px
+            + portacedés
+            + portapapeis
+            + pospretérito
+            + posprocesamento
+            + proxy
+            + quilobit, kb
+            + quilobyte, kB
+            + rasterizar
+            + rastrexo
+            + rechouchiar
+            + renderización
+            + repositorio
+            + SMS
+            + subdominio
+            + supercomputación
+            + tableta
+            + telemático
+            + teletexto
+            + titorial
+            + tunelización
+            + Urano
+            + URL
+            + USB
+            + validador
+            + videochamada
+            + videoescritura
+            + vinculación
+            + web, Web
+            + wifi
+            + xigabyte, GB
+            + Xúpiter
+            • dedicar (+pronominal)
+            • delirium tremens → delírium tremens
+            • ganés → ghanés
+            • plutón/s → Plutón
+            • saturno/s → Saturno
+            • Venus → venus
+            - anque
+            - apeadeiro
+            - columpio
+        • «incorrecto.rep», creado desde cero coas seguintes suxestións:
+            • hashtag → cancelo
+            • trending topic → tema do momento
+        • «tolerado.rep», creado desde cero coas seguintes suxestións:
+            • cookie → rastro
+            • firmware → microprograma
+        • «tolerado.dic», creado desde cero co seguinte vocabulario:
+            • cookie
+            • firmware
+            • seudónimo
+
++ santiago (novo)
+    • Baseado en publicacións do Concello de Santiago de Compostela.
+    • O módulo contén os seguintes submódulos baseados en documentos
+      publicados polo concello que inclúen listas de palabras:
+        • abreviaturas
+        • siglas
+        • símbolos
+
++ udc (novo)
+    • Baseado en publicacións da Universidade da Coruña.
+    • O módulo contén os seguintes submódulos baseados en documentos
+      publicados pola universidade que inclúen listas de palabras:
+        • abreviaturas
+        • siglas
+
++ usc (novo)
+    • Baseado en publicacións da Universidade de Santiago de Compostela.
+    • O módulo contén os seguintes submódulos baseados en documentos
+      publicados pola universidade que inclúen listas de palabras:
+        • abreviaturas
+        • siglas
+        • símbolos
+
++ uvigo (novo)
+    • Baseado en publicacións da Universidade de Vigo.
+    • O módulo contén «abreviaturas.dic» e «siglas.dic», baseados no documento
+      de dúbidas lingüísticas da universidade, que inclúe unha lista de
+      abreviaturas e siglas frecuentes.
+
+• volga
+    + romántica/s (só estaban as formas masculinas)
+    - carrocería, carrozaría (pero engadíronse ao novo módulo «rag/gl»)
+
++ wikipedia/en
++ wikipedia/es
++ wikipedia/gl/bioquímica
++ wikipedia/gl/onomástica/administración
++ wikipedia/gl/onomástica/antroponimia
+• wikipedia/gl/onomástica/arquitectura/relixión (actualizouse)
++ wikipedia/gl/onomástica/arte
++ wikipedia/gl/onomástica/astronomía
++ wikipedia/gl/onomástica/deporte
++ wikipedia/gl/onomástica/economía
++ wikipedia/gl/onomástica/historia
++ wikipedia/gl/onomástica/informática
++ wikipedia/gl/onomástica/música
++ wikipedia/gl/onomástica/organizacións
++ wikipedia/gl/onomástica/política
++ wikipedia/gl/onomástica/televisión
++ wikipedia/gl/onomástica/toponimia/accidentes/baías
++ wikipedia/gl/onomástica/toponimia/accidentes/desertos
+• wikipedia/gl/onomástica/toponimia/accidentes/illas (actualizouse)
++ wikipedia/gl/onomástica/toponimia/accidentes/mares
+• wikipedia/gl/onomástica/toponimia/accidentes/montañas
++ wikipedia/gl/onomástica/toponimia/accidentes/penínsulas
+• wikipedia/gl/onomástica/toponimia/accidentes/praias (actualizouse)
+• wikipedia/gl/onomástica/toponimia/accidentes/rexións (actualizouse)
+• wikipedia/gl/onomástica/toponimia/accidentes/ríos (actualizouse)
+• wikipedia/gl/onomástica/toponimia/localidades/alemaña (actualizouse)
++ wikipedia/gl/onomástica/toponimia/localidades/austria
+• wikipedia/gl/onomástica/toponimia/localidades/bélxica (actualizouse)
+• wikipedia/gl/onomástica/toponimia/localidades/brasil (actualizouse)
++ wikipedia/gl/onomástica/toponimia/localidades/burkina-faso
++ wikipedia/gl/onomástica/toponimia/localidades/cambodja
++ wikipedia/gl/onomástica/toponimia/localidades/canadá
++ wikipedia/gl/onomástica/toponimia/localidades/china
+• wikipedia/gl/onomástica/toponimia/localidades/colombia (actualizouse)
++ wikipedia/gl/onomástica/toponimia/localidades/corea-do-norte
+• wikipedia/gl/onomástica/toponimia/localidades/dinamarca (actualizouse)
++ wikipedia/gl/onomástica/toponimia/localidades/dominica
+• wikipedia/gl/onomástica/toponimia/localidades/emiratos-árabes-unidos (actualizouse)
+• wikipedia/gl/onomástica/toponimia/localidades/españa (actualizouse)
+• wikipedia/gl/onomástica/toponimia/localidades/estados-unidos-de-américa (actualizouse)
+• wikipedia/gl/onomástica/toponimia/localidades/finlandia (actualizouse)
+• wikipedia/gl/onomástica/toponimia/localidades/francia (actualizouse)
+• wikipedia/gl/onomástica/toponimia/localidades/grecia (actualizouse)
+• wikipedia/gl/onomástica/toponimia/localidades/india (actualizouse)
+• wikipedia/gl/onomástica/toponimia/localidades/irlanda (actualizouse)
++ wikipedia/gl/onomástica/toponimia/localidades/islandia
+• wikipedia/gl/onomástica/toponimia/localidades/israel (actualizouse)
+• wikipedia/gl/onomástica/toponimia/localidades/italia (actualizouse)
++ wikipedia/gl/onomástica/toponimia/localidades/kenya
+• wikipedia/gl/onomástica/toponimia/localidades/líbano (actualizouse)
++ wikipedia/gl/onomástica/toponimia/localidades/malaisia
++ wikipedia/gl/onomástica/toponimia/localidades/marrocos
++ wikipedia/gl/onomástica/toponimia/localidades/mozambique
++ wikipedia/gl/onomástica/toponimia/localidades/nepal
+• wikipedia/gl/onomástica/toponimia/localidades/oceanía (actualizouse)
++ wikipedia/gl/onomástica/toponimia/localidades/omán
+• wikipedia/gl/onomástica/toponimia/localidades/países-baixos (actualizouse)
++ wikipedia/gl/onomástica/toponimia/localidades/paquistán
+• wikipedia/gl/onomástica/toponimia/localidades/polonia (actualizouse)
+• wikipedia/gl/onomástica/toponimia/localidades/portugal (actualizouse)
+• wikipedia/gl/onomástica/toponimia/localidades/qatar (actualizouse)
+• wikipedia/gl/onomástica/toponimia/localidades/reino-unido (actualizouse)
+• wikipedia/gl/onomástica/toponimia/localidades/romanía (actualizouse)
++ wikipedia/gl/onomástica/toponimia/localidades/rusia
+• wikipedia/gl/onomástica/toponimia/localidades/sudáfrica → wikipedia/gl/onomástica/toponimia/localidades/suráfrica (actualizouse)
++ wikipedia/gl/onomástica/toponimia/localidades/sudán-do-sur
++ wikipedia/gl/onomástica/toponimia/localidades/suecia
+• wikipedia/gl/onomástica/toponimia/localidades/suíza (actualizouse)
+• wikipedia/gl/onomástica/toponimia/localidades/turquía (actualizouse)
++ wikipedia/gl/onomástica/toponimia/localidades/ucraína
+• wikipedia/gl/onomástica/toponimia/localidades/venezuela (actualizouse)
+• wikipedia/gl/onomástica/toponimia/localidades/xapón (actualizouse)
+• wikipedia/gl/onomástica/toponimia/lugares/galicia (actualizouse)
+• wikipedia/gl/onomástica/toponimia/países (actualizouse)
+• wikipedia/gl/onomástica/toponimia/rexións/alemaña (actualizouse)
++ wikipedia/gl/onomástica/toponimia/rexións/bélxica
+• wikipedia/gl/onomástica/toponimia/rexións/brasil (actualizouse)
+• wikipedia/gl/onomástica/toponimia/rexións/colombia (actualizouse)
+• wikipedia/gl/onomástica/toponimia/rexións/españa (actualizouse)
+• wikipedia/gl/onomástica/toponimia/rexións/estados-unidos-de-américa (actualizouse)
+• wikipedia/gl/onomástica/toponimia/rexións/francia (actualizouse)
+• wikipedia/gl/onomástica/toponimia/rexións/grecia (actualizouse)
++ wikipedia/gl/onomástica/toponimia/rexións/guatemala
++ wikipedia/gl/onomástica/toponimia/rexións/india
+• wikipedia/gl/onomástica/toponimia/rexións/italia (actualizouse)
+• wikipedia/gl/onomástica/toponimia/rexións/méxico (actualizouse)
+• wikipedia/gl/onomástica/toponimia/rexións/países-baixos (actualizouse)
+• wikipedia/gl/onomástica/toponimia/rexións/portugal (actualizouse)
++ wikipedia/gl/onomástica/toponimia/rexións/reino-unido
+• wikipedia/gl/onomástica/toponimia/rexións/rusia (actualizouse)
+• wikipedia/gl/onomástica/toponimia/zonas/españa (actualizouse)
++ wikipedia/gl/onomástica/toponimia/zonas/mónaco
++ wikipedia/gl/onomástica/transporte
++ wikipedia/gl/siglas
+• wikipedia/gl/suxestións (actualizouse)
++ wikipedia/hu
++ wikipedia/pt
+
++ wiktionary (novo)
+    • Baseado no proxecto Wiktionary da fundación Wikimedia.
+    • O ideal é que pouco a pouco este proxecto vaxa fornecendo módulos que
+      substitúan aos da Wikipedia, por ser o Wiktionary un proxecto máis
+      axeitado para utilizar de base de datos de vocabulario.
+    • De momento o módulo contén:
+        • Antropónimos, nos módulos «en/antroponimia» e «gl/antroponimia».
+        • Topónimos, distribuídos entre «gl/toponimia/xeral.dic» e
+          «gl/toponimia/galicia.dic», imitando as categorías do proxecto.
+
+
+
+Versión 13.10.1
+===============
+Limpeza
+
+Versión 13.10 (11 de outubro do 2013)
+=====================================
+Actualizado especialmente o readme.txt
+Engadíronse «preinscribir» e «redirixir» ao módulo de comunidade, e preparouse o guión de empaquetación para crear un paquete de comunidade, e usar o código gl_ES.
+Peche de incidencias pendentes: vadealo, necesitámonos
+Update readme.txt
+Actualización
+Engadíronse as formas reflexivas «dígome» e «dicímonos».
+Corrección do problema #136
+Engadíronse as formas pronominais descritas nese problema.
+Detectáronse e arranxáronse códigos incorrectos (con 4 cifras, cando o máximo definido de momento son 3). Isto soluciona a detección de «debrúcenselle» como incorrecta.
+Corrixiuse un erro ortográfico nos comentarios: iregularidade → irregularidade.
+O corretor pasa a incluír de maneira predeterminada unicamente o vocabulario do VOLG.
+Limpeza de comunidade
+Engadíronse os módulos «galipedia/onomástica/toponimia/accidentes/rexións» (que substitúe «galipedia/onomástica/toponimia/territorios») e «galipedia/onomástica/toponimia/rexións/grecia».
+Engadiuse o módulo «galipedia/onomástica/toponimia/localidades/sudáfrica».
+Engadiuse o módulo «galipedia/onomástica/toponimia/localidades/grecia-antiga».
+Engadiuse o módulo «galipedia/onomástica/toponimia/localidades/irlanda».
+Engadiuse o módulo «galipedia/onomástica/toponimia/localidades/emiratos-árabes-unidos».
+Engadiuse o módulo «galipedia/onomástica/toponimia/localidades/qatar».
+Engadiuse o módulo «galipedia/onomástica/toponimia/localidades/timor-leste».
+Engadiuse o módulo «galipedia/onomástica/toponimia/accidentes/ríos».
+Engadiuse o módulo «galipedia/onomástica/toponimia/localidades/siria».
+Engadiuse o módulo «galipedia/onomástica/toponimia/localidades/bangladesh».
+Engadiuse o módulo «galipedia/onomástica/toponimia/localidades/polonia».
+Engadiuse o módulo «galipedia/onomástica/toponimia/localidades/dinamarca».
+Engadiuse «Cochinchina» a «galipedia/onomástica/toponimia/territorios».
+Engadiuse o módulo «galipedia/onomástica/toponimia/localidades/bolivia».
+Engadiuse o módulo «galipedia/onomástica/toponimia/territorios» coas entradas «Cisxordania» e «Faixa de Gaza».
+Engadiuse un ficheiro «.gitignore» cunha entrada para ignorar instalacións locais de PyWikipediaBot.
+Actualización de varios dicionarios empregando o xerador automático.
+Actualizouse «galipedia/onomástica/toponimia/países» empregando o novo xerador.
+Engadiuse un modo de análise baseado na primeira oración dos artigos para usar na xeración de «galipedia/onomástica/toponimia/países». En vez de basearse no nome das páxinas, se basea nas palabras en letra grosa da primeira oración do artigo.
+Agora é posible dirixir a saída de consola dos scripts a un ficheiro sen que haxa problemas de codificación de caracteres.
+Actualizouse «src/galipedia/onomástica/toponimia/accidentes/illas.dic».
+Engadiuse a categoría «Illas das Illas Baleares» á lista de categorías usadas para xerar «src/galipedia/onomástica/toponimia/accidentes/illas.dic».
+Rexerouse «src/iso4217/vocabulario.dic» tras os cambios no código de xeración.
+Actualizouse o código para xerar «src/iso4217/vocabulario.dic».
+Actualizouse «galipedia/suxestións».
+Limpeza de comunidade
+Engadiuse «galipedia/onomástica/toponimia/localidades/cuba».
+Engadiuse «galipedia/onomástica/toponimia/localidades/guatemala».
+Engadiuse «galipedia/onomástica/toponimia/localidades/xapón».
+Engadiuse «galipedia/onomástica/toponimia/rexións/méxico».
+Engadiuse «galipedia/onomástica/toponimia/rexións/rusia».
+Engadiuse «galipedia/onomástica/toponimia/rexións/países-baixos».
+Engadiuse «galipedia/onomástica/toponimia/localidades/desaparecidas».
+Engadiuse «galipedia/onomástica/toponimia/accidentes/praias».
+Engadiuse «galipedia/onomástica/toponimia/localidades/finlandia».
+Engadiuse «galipedia/onomástica/toponimia/rexións/finlandia».
+Engadiuse «galipedia/onomástica/toponimia/localidades/venezuela».
+Engadiuse «galipedia/onomástica/toponimia/localidades/india».
+Engadiuse «galipedia/onomástica/toponimia/localidades/hungría».
+Engadiuse «galipedia/onomástica/toponimia/localidades/romanía».
+Engadiuse «galipedia/onomástica/toponimia/localidades/bélxica».
+Engadíronse os distritos de Nova York a «galipedia/onomástica/toponimia/rexións/estados-unidos-de-américa».
+Engadiuse «galipedia/onomástica/toponimia/localidades/barbados».
+Engadiuse «galipedia/onomástica/toponimia/localidades/congo».
+Engadiuse «galipedia/onomástica/toponimia/localidades/eslovaquia».
+Engadiuse «galipedia/onomástica/toponimia/localidades/brasil».
+Engadiuse «galipedia/onomástica/toponimia/rexións/alemaña».
+Engadiuse o módulo «galipedia/onomástica/arquitectura/relixión».
+O módulo «galipedia/toponimia» pasa a ser «galipedia/onomástica/toponimia».
++traveseira/s
+Update install-gl.txt
+Limpeza de comunidade
+Uso de orde alfabética galega para as entradas dos ficheiros da Galipedia.
+Actualizei «src/galipedia/toponimia/lugares/galicia.dic» (simplemente se eliminarion entradas «ó» e «á»).
+Rescribín os guións para xerar módulos automaticamente a partir das fontes (Galipedia, ISO).
+Agora para actualizar un ficheiro a partir das fontes abonda con executar:
+  $ python2 scripts/xerador <ruta do ficheiro>
+A ruta do ficheiro pode ser absoluta, relativa á ruta actual, ou relativa ao cartafol dos módulos (src). Por exemplo: «galipedia/toponimia/accidentes/montañas.dic».
+Tamén se pode indicar unha ruta incompleta, que xerará todos os ficheiros que coincidan parcialmente con ela. Por exemplo, a seguinte orde actualizaría todos os módulos da Galipedia, o un tras o outro:
+  $ python2 scripts/xerador galipedia
+Pásase a usar ICU (a biblioteca de internacionalización e localización por excelencia) para ordenar as entradas dos ficheiros resultantes da construción do corrector.
+Actualizouse «src/iso639/vocabulario.dic».
+Actualizouse «src/galipedia/toponimia/rexións».
+Actualizouse «src/galipedia/toponimia/países.dic».
+Actualizouse «src/galipedia/toponimia/lugares/galicia.dic».
+Actualización de «galipedia/toponimia/localidades».
+Elimináronse algunhas entradas incorrectas de «src/galipedia/toponimia/accidentes/illas.dic».
+Elimináronse as entradas «Pena» de «src/galipedia/toponimia/accidentes/montañas.dic».
+Limpeza de comunidade
+Engadiuse «galipedia/toponimia/localidades/colombia».
+Engadido un guión en Bash para limpar «comunidade/toponimia.dic» de palabras presentes xa en «galipedia/toponimia», e aplicado.
+Extraeuse «comunidade/toponimia.dic» de «comunidade/vocabulario.dic», principalmente para facilitar o traballo de limpeza.
+Actualizouse «galipedia/toponimia/localidades/grecia».
+Engadiuse «galipedia/toponimia/localidades/guinea-bisau».
+Engadiuse «Birmania» a «galipedia/toponimia/países».
+Agora o guión para empaquetar inclúe todos os ficheiros de texto simple ...
+Agora o guión para empaquetar inclúe todos os ficheiros de texto simple (.txt) no paquete, como «readme-gl.txt».
+Engadiuse un guión para empaquetar edicións do corrector (de momento sól...
+Engadiuse un guión para empaquetar edicións do corrector (de momento sólo a principal).
+Limpeza de comunidade
+Mellorouse o guión para xerar «galipedia/toponimia/localidades/españa», que agora inclúe as parroquias galegas, e actualizouse dito módulo.
+Engadiuse «galipedia/toponimia/localidades/alemaña».
+Engadiuse «galipedia/toponimia/localidades/serbia».
+Engadiuse «galipedia/toponimia/localidades/líbano».
+Engadiuse «galipedia/toponimia/localidades/suíza».
+Engadiuse «galipedia/toponimia/zonas/españa».
+Engadiuse «galipedia/toponimia/localidades/indonesia».
+Engadiuse «galipedia/toponimia/localidades/malí».
+Mellorouse o guión para xerar «galipedia/toponimia/accidentes/illas», e actualizouse o módulo que pasa a incluír varias illas máis, entre elas «Bali».
+Engadiuse «galipedia/toponimia/localidades/iraq».
+Mellorouse o guión para xerar «galipedia/toponimia/países», e actualizouse o módulo que pasa a incluír varios países máis, entre eles «Australia».
+Engadiuse «galipedia/toponimia/localidades/grecia».
+Engadiuse «Astoria» á lista de localidades dos Estados Unidos de América.
+Limpeza de comunidade
+Engadiuse «galipedia/toponimia/accidentes/illas».
+«galipedia/toponimia/continentes» → «galipedia/toponimia/accidentes/continentes»
+Engadiuse «galipedia/toponimia/localidades/perú».
+Engadiuse «galipedia/toponimia/localidades/italia».
+Engadiuse «galipedia/toponimia/rexións/chile».
+Engadiuse «galipedia/toponimia/continentes».
+Engadiuse «galipedia/topónimos/localidades/turquía».
+Engadiuse «galipedia/toponimia/rexións/colombia».
+Engadiuse «galipedia/toponimia/rexións/españa».
+Actualizouse «galipedia/toponimia/localidades/estados-unidos-de-américa», que se beneficiou dalgunhas das melloras engadidas ultimamente ao guión para xerar o ficheiro.
+Engadiuse «galipedia/toponimia/localidades/países-baixos».
+Engadiuse «galipedia/toponimia/localidades/xordania».
+Engadiuse «galipedia/toponimia/localidades/alxeria».
+Engadín a extensión de ficheiro ao módulo «galipedia/toponimia/países».
+Engadiuse «galipedia/toponimia/rexións/francia».
+Limpeza de comunidade
+Engadiuse «galipedia/toponimia/accidentes/montañas».
+Limpeza de termos de «cominudade» xa presentes en «galipedia».
+Engadiuse «galipedia/topónimos/localidades/exipto.dic».
+Engadiuse «galipedia/toponimia/rexións/portugal.dic».
+Mellorouse o filtro dos guións de xeración de contido da Galipedia.
+Ampliei a lista de termos a ignorar nos guións que extraen contido da Galipedia.
+Elimináronse de comunidade palabras xa presentes no módulo «galipedia».
+Engadiuse o módulo «galipedia/xeografía/accidentes» co termo «albufeira».
+Engadíronse máis localidades á lista de España (cidades).
+Engadíronse máis localidades á lista de España (cidades).
+Engadiuse unha lista de localidades de Iemen.
+Engadiuse unha lista de rexións dos Estados Unidos de América (estados).
+Update vocabulario.dic
+formatado
+Segue o progreso na limpeza de «comunidade»
+Ampliouse o módulo «galipedia/toponimia/lugares/galicia» con nomes de parroquias.
+Engadiuse o módulo «galipedia/toponimia/localidades/oceanía».
+Engadiuse o módulo «galipedia/toponimia/rexións/brasil».
+Engadiuse o módulo «galipedia/toponimia/localidades/israel».
+Centralicei as palabras a ignorar en topónimos nun módulo Python de seu.
+Escribín un guión para xerar unha lista de países.
+Engadín o módulo de vocabulario «galipedia/toponimia/países», reflectido en SConstruct.
+Todo isto como parte do proceso de dividir o contido do módulo «comunidade» entre os outros módulos.
+Actualizáronse as referencias ao vello ficheiro de documentación. A documentación pasa a estar no wiki.
+Pasei a documentación de desenvolvemento ao wiki do Proxecto Trasno.
+Creei un ficheiro, «documentación.txt», con ligazóns ás distintas páxinas con documentación sobre o corrector.
+Actualizado o módulo «galipedia/suxestións».
+Arranxei uns guións e volvinos executar para actualizar
+Update builds
+Actualizados os módulos de toponimia da Galipedia.
+Arranxei un pequeno problema que introducira nuns guións (co ofxectivo de mellorar un chisco a súa eficiencia).
+Actualizado o módulo «galipedia/suxestións».
+Decateime de que SCons non estaba a funcionar con tiles
+Solucionado que o sistema non fose capaz de recoñecer ficheiros non ASCII.
+Actualizo SConstruct para reflectir a desaparición do módulo «norma» de suxestións.
+Continúa o progreso de revisión do vocabulario «da comunidade»
+Actualizo o «SConstruct» cos últimos cambios.
+Vólvense ignorar «Campo» e «Río» nos topónimos.
+Sincronízanse as listas de palabras a ignorar.
+Continúa o progreso de revisión do vocabulario «da comunidade».
+Renomeado o concepto de «concellos» como «localidades», para contemplar todo tipo de núcleos urbanos: cidades, concellos, vilas, comunas, etc.
+Engadidos dentro do módulo «galipedia/toponimia» os submódulos «lugares» e «rexións», este último para calquera cousa entre unha localidade e un estado.
+Novos ficheiros de localidades para: Estados Unidos de América, Etiopía, México, Portugal e Reino Unido.
+Novo ficheiro de lugares de Galicia.
+Novo ficheiro de rexións de Italia.
+Concellos españois
+Movín o vocabulario de «volga» que non ven do VOLGa e mailas suxestións ...
+Engadín un guión para xerar un ficheiro «.dic» de concellos de España a partir da Galipedia.
+Engadín un módulo cos concellos de España: «galipedia/toponimia/concellos/españa.dic».
+Movín o vocabulario de «volga» que non ven do VOLGa e mailas suxestións de «norma» a un novo módulo, «comunidade», que servirá de destino temporal para contido que require ser revisado e repartido entre outros módulos.
+transo → trasno
+Varios ficheiros dun mesmo tipo por módulo
+Actualizei SConstruct para reflexar os submódulos de «volga».
+Separei as entradas «toleradas» do VOLGa nun ficheiro «.dic» de seu para posibilitar a non inclusión das mesmas no corrector, en caso de que se queiran excluír.
+Engadín un guión en Python para obter unha lista das entradas «toleradas» do VOLGa.
+Cambieille o nome aos módulos seguindo unhas novas directrices. Non máis «main».
+Ampliei e actualicei a documentación de desenvolvemento.
+Agora a única restrición para que os ficheiros dos módulos poidan incluírse no corrector ao construílo é que os ficheiros as extensións de ficheiro correctas («.aff», «.dic» ou «.rep»).
+Actualización das suxestións da Galipedia, cambios do 2013-04-14 ao 2013...
+Axustouse SConstruct para contar como comentarios as liñas que teñen espazos en branco antes do «#»
+Actualización das suxestións da Galipedia, cambios do 2013-04-14 ao 2013-04-27
+Engadiuse un módulo da Galipedia, «galipedia», que fornece suxestións ba...
+Engadiuse un módulo da Galipedia, «galipedia», que fornece suxestións baseadas na lista da seguinte páxina do proxecto: «http://gl.wikipedia.org/wiki/Wikipedia:Erros_de_ortografía_e_desviacións».
+Desactivada a compresión dos ficheiros (o corrector pasará a ocupar 3 M
++Desactivada a compresión dos ficheiros (o corrector pasará a ocupar 3 MiB en vez de 2) porque esta corrompe o corrector (introduce erros). Xa se informou aos desenvolvedores, que están a revisar o problema.
+Arranxados dous erros (descoidos).
+Separación das substitucións nun ficheiro de seu, automatizando a súa conta, e evitando cadeas repetidas.
+Suxestión: financiación → financiamento.
+Suxestión: disfrutar → desfrutar, gozar.
+Elimináronse as entradas duplicadas do ficheiro .dic principal.
+Suxestión: disfrutar → gozar, desfrutar.
+Suxestión: financiación → financiamento.
++disolto
+Limpeza
++cartafoles
+Suxestión: según → segundo.
+Suxestión: perxuízo → prexuízo.
+Suxestión: xeralizar → xeneralizar.
+Suxestión: perrucaría, perruquería → salón de peiteado, barbaría, barber...
+Suxestión: discurrirá → discorrerá.
+Suxerir «estoniano» para corrixir «estonio».
++subxacer
++disolto
+Uso de «makealias», unha ferramenta de Hunspell que “comprime” considerablemente os ficheiros do corrector.
+O dicionario pasa a limparse de espazos e tabulacións innecesarias, igual que o ficheiro de afixos.
+Elimínanse as liñas duplicadas do dicionadio.
+Elimínase o concepto de ficheiro de cabeceira.
+Durante a construción do corrector, elimínanse os comentarios e mailos espazos e tabulacións innecesarios.
++cartafoles
++oitocentas
++quiñentas
++senllas
+Suxerir «estoniano» para corrixir «estonio».
+Suxestión: discurrirá → discorrerá.
+Suxestión: perrucaría, perruquería → salón de peiteado, barbaría, barbería.
+Suxestión: xeralizar → xeneralizar.
+Suxestión: según → segundo.
+Suxerencia: *perxuízo → dano.
+Suxerencia: *prexudicioso → daniño, danoso, lesivo, nocivo, pernicioso.
++latoeira
++pregravado
++eucariota
+Suxestión: acuciante → perentorio, urxente.
+Suxestión: callejón → rúa.
++ka
+Suxestión: acuciante → perentorio, urxente.
+Suxestión: callejón → calella, calello, canella, canellón, quella.
+Eliminei a forma plural para «gran» como adxectivo. Mantense a forma plu...
+Suxestión: aluguer → alugamento, alugueiro, renda.
+Suxestión: mirador → miradoiro.
+Suxestión: asequíbel, asequible → accesíbel, accesible, alcanzábel, alca...
+Suxestión: turno → quenda, rolda, ronda, vez.
+Suxestión: sobretodo → por enriba de todo, por riba de todo.
+Suxestión: coste → custo.
+Suxestión: ubicar → localizar, situar.
+Suxestión: Kg → kg.
+Suxestión: línea → liña.
+Suxestión: xóvenes → mocidade, mozos, novos, xoves, xuventude.
+Suxestión: convinte → conveniente.
+Suxestión: taquilla → portelo.
+Suxestión: vial → viario.
+Suxestión: donación → doazón.
+Suxestión: órdenes → ordes.
+Engadiuse ao «subxuntivo presente P1 / P3» dos verbos da terceira conxug...
+Engadiuse a suxestión «Xirona» para as palabras «Gerona» e «Girona».
+Suxestión: desemplear → desempregar.
+Suxestión: plantilla → cadro de persoal, deseño, modelo, padrón, persoal...
+Suxestións: recadatorio → recadador.
+Suxestión: tilde → acento, acento gráfico, acento ortográfico.
+Suxestión: adosado, encostado → contiguo.
+Suxestión: peldaño → banzo, chanzo, paso.
+Corrección de suxestión para «buzón»: «caixa de correos» → «caixa do cor...
+Suxestión: xenerar → xerar.
+Suxestión: infantiles → infantís.
+Suxestión: bache → focha, fochanca, foxo.
+Suxestión: desperfecto → dano.
++irían (P6 do condicional do verbo «ir»).
+Engadíronse as conxugacións pronominais a «preguntar».
+Engadiuse a conxugación transitiva de «avagar».
++alcólico
++andamio
++arregalar
++fanfarrón
++fardel
++internet
++ñandú
+Déuselle a «sobrevivir» a mesma conxugación que a «convivir», non defect...
+Trasno
++pegamento
++xoana
++xergo
+policromo → polícromo.
++quizá, +quizás.
+Suxestión: gravitatorio → gravitacional.
++biodiversidade
+Engadiuse a suxesión «século» para o erro «siglo».
+Mellorouse a suxestión para «preacordos»: «acordo previos» → «acordos pr...
++fono
++virxe
+Apliquei a nova sintaxe para as suxestións «vinte e <número>», que coa v...
++vacío
++transxénico
++séniors
++hardware
+Suxestión: sea → sexa
++remudista
+quilohertces → quilohertzs
+letoa → letona
+Suxestión: esté/s → estea/s
++escáner
++escanear
++Conxugación transitiva para «desfrutar», que segundo o DRAG pode ter, i...
+cónsuis → cónsules
++conector
++colariño
+chándais → chándales
+Suxestión: choll- → choi-
++chimpín
++carrocería, +carrozaría (subst.)
+caníbais → caníbales
++cabrona
+Eliminei a forma plural para «gran» como adxectivo. Mantense a forma plural do substantivo, por suposto.
+Limitáronse as entradas do .dic aos termos que foron acordados nas trasnadas.
+Engadiuse a documentación do módulo de Trasno ao guión de execución.
+Engadíronse instrucións para instalar a edición de Trasno do corrector ortográfico ao ficheiro «install.txt».
+Traduciuse o contido de «install.txt» ao galego en «install-gl.txt».
+Versión inicial do módulo de Trasno. Falta resolver algunha que outra dúbida.
+Déuselle a «sobrevivir» a mesma conxugación que a «convivir», non defectiva.
++xoana
++xergo
++quizá, +quizás.
+policromo → polícromo.
++pegamento
++ñandú
++ka
++internet
++fardel
++fanfarrón
++arregalar
++andamio
++alcólico
+Engadiuse a conxugación transitiva de «avagar».
+Engadíronse as conxugacións pronominais a «preguntar».
++irían (P6 do condicional do verbo «ir»).
+Suxestión: desperfecto → dano.
+Suxestión: bache → focha, fochanca, foxo.
+Suxestión: infantiles → infantís.
+Suxestión: xenerar → xerar.
+Corrección de suxestión para «buzón»: «caixa de correos» → «caixa do correo».
+Suxestión: peldaño → banzo, chanzo, paso.
+Suxestión: adosado, encostado → contiguo.
+Suxestión: callejón → rúa.
+Suxestión: tilde → acento, acento gráfico, acento ortográfico.
+Suxestións: recadatorio → recadador.
+Suxestión: plantilla → cadro de persoal, deseño, modelo, padrón, persoal, soleta.
+Suxestión: desemplear → desempregar.
+Suxestión: ubicar → localizar.
+Suxestión: órdenes → ordes.
+Suxestión: donación → doazón.
+Suxestión: vial → viario.
+Suxestión: taquilla → portelo.
+Suxestión: convinte → conveniente.
+Suxestión: xóvenes → mocidade, mozos, novos, xoves, xuventude.
+Suxestión: línea → liña.
+Suxestión: Kg → kg.
+Suxestión: ubicar → situar.
+Suxestión: coste → custo.
+Suxestión: turno → quenda, rolda, ronda, vez.
+Suxestión: sobretodo → por enriba de todo, por riba de todo.
+Suxestión: asequíbel, asequible → accesíbel, accesible, alcanzábel, alcanzable.
+Suxestión: mirador → miradoiro.
+Suxestión: aluguer → alugamento, alugueiro, renda.
+Engadiuse ao «subxuntivo presente P1 / P3» dos verbos da terceira conxugación rematados en «[^cuáó]er» o pronome enclítico: convértase, deféndase, corrómpase, corróase, etc.
+Engadiuse a suxestión «Xirona» para as palabras «Gerona» e «Girona».
++subxacer
+Suxestión: gravitatorio → gravitacional.
++biodiversidade
++eucariota
+Engadiuse a suxesión «século» para o erro «siglo».
+Mellorouse a suxestión para «preacordos»: «acordo previos» → «acordos previos».
++Conxugación transitiva para «desfrutar», que segundo o DRAG pode ter, igual que «gozar», valores tanto transitivo como intransitivo.
+Suxestión: sea → sexa
+Suxestión: choll- → choi-
+Suxestión: esté/s → estea/s
+Apliquei a nova sintaxe para as suxestións «vinte e <número>», que coa vella non funcionaban. Véxase: http://sourceforge.net/tracker/?func=detail&atid=756398&aid=3008434&group_id=143754
++vacío
++transxénico
++séniors
+quilohertces → quilohertzs
++latoeira
+cónsuis → cónsules
++colariño
++carrocería, +carrozaría (subst.)
++cabrona
++virxe
++hardware
++software
+Elimináronse dúas repeticións innecesarias da entrada de «sol».
++chimpín
++conector
+letoa → letona
+chándais → chándales
+caníbais → caníbales
+ISO 639 e 4217
++escáner
++pregravado
++fono
++remudista
++escanear
+Engadido un módulo cos códigos ISO das moedas, e un guión en Python capaz de xerar o seu .dic automaticamente.
+Fixed a typo.
+Engadido un módulo cos códigos ISO das linguas, e un guión en Python capaz de xerar o seu .dic automaticamente.
+Correción dalgúns erros, e separación das unidades nun módulo de seu
+Traducín a documentación sobre como está distribuído o código fonte, e engadín información sobre os códigos de afixos reservados para cada módulo.
+Separei as unidades nun módulo independente.
+Simplifiquei o código de construción do dicionario.
+Traducín a documentación do código de construción.
+Engadín os seguintes símbolos químicos: Bh, Cn, Db, Fl, Lr, Lv, Mt, Rf, Sg, Uuo, Uup, Uus, Uut.
++desprovido
++contradicido
+*estabelecemento0 (estabelecemento)
+Cambio menor da documentación entre liñas do ficheiro de afixos.
+Modularización proposta por Gallaecio á ramificación master
+Using SCons to build the .aff and .dic files. This will allow to build modularized contents in the future.
++Updated the documentation.
+Added some documentation about development and source files organization.
+Further reorganization of the source files.
+Reorganized the spellchecker files in modules, so optional modules can be built in the future.
+
+
+Versión 12.02 (15 de outubro do 2012)
+=====================================
+Rewrote the README file (now readme.txt), and proided the GPLv3 license text both in English and Galician.
+Eliminación do ficheiro readme.md de github
+Nova versión dos ficheiros base .aff e .dic a partir do desenvolvemento de Mancomún
+Desenvolvedor de regras: Miguel Solla
+O dicionario baséase no Volga
+Engadir .aff e .dic estables
+Ficheiros no estado elaborado por Mancomún. Versión 3.2 (http://wiki.mancomun.org/index.php/Corrector_ortogr%C3%A1fico_para_OpenOffice.org)
+Initial commit
+
