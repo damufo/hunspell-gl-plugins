@@ -1,7 +1,19 @@
-Datos a partir dos rexistros de Github (https://github.com/meixome/hunspell-gl)
+Cambios desde a versión 23.05.1
+===============================
+Actualizados gl.aff e gl.dic a partir de 
+https://gitlab.com/trasno/hunspell-gl/ con data de maio de 2023.
+description.xml actualiza a versión e a ligazón do proxecto hunspell-gl.
+dictionaries.xcu retira etiquetas sobrantes en rutas.
+package-description.txt actualiza a versión.
+readme-gl.txt actualiza a ligazón á web do Proxecto Trasno.
+readme.txt actualiza a ligazón á web do Proxecto Trasno.
+changelog.txt engade esta nova versión.
+Empaquetado por damufo.
+
 
 Cambios desde a versión 13.10.1
 ===============================
+Datos a partir dos rexistros de https://github.com/meixome/hunspell-gl
 
 + ceg (novo)
     • Baseado en publicacións da Confederación de Empresarios de Galicia.
@@ -479,6 +491,8 @@ Limpeza
 
 Versión 13.10 (11 de outubro do 2013)
 =====================================
+Datos a partir dos rexistros de https://github.com/meixome/hunspell-gl
+
 Actualizado especialmente o readme.txt
 Engadíronse «preinscribir» e «redirixir» ao módulo de comunidade, e preparouse o guión de empaquetación para crear un paquete de comunidade, e usar o código gl_ES.
 Peche de incidencias pendentes: vadealo, necesitámonos
@@ -893,6 +907,8 @@ Reorganized the spellchecker files in modules, so optional modules can be built 
 
 Versión 12.02 (15 de outubro do 2012)
 =====================================
+Datos a partir dos rexistros de https://github.com/meixome/hunspell-gl
+
 Rewrote the README file (now readme.txt), and proided the GPLv3 license text both in English and Galician.
 Eliminación do ficheiro readme.md de github
 Nova versión dos ficheiros base .aff e .dic a partir do desenvolvemento de Mancomún

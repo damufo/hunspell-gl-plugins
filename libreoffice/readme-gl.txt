@@ -1,7 +1,7 @@
 Corrector ortográfico Hunspell para o galego
 ============================================
 
-Mantido por Proxecto Trasno (http://trasno.net) baixo a coordinación de Antón Méixome (desde marzo de 2011).
+Mantido por Proxecto Trasno (https://trasno.gal) baixo a coordinación de Antón Méixome (desde marzo de 2011).
 
 Sobre a normativa lingüística
 -----------------------------

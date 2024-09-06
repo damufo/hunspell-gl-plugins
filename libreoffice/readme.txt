@@ -1,7 +1,7 @@
 Hunspell Spellchecker for Galician
 ==================================
 
-Maintained by Proxecto Trasno (http://trasno.net) under the coordination of Antón Méixome (from march,2011)
+Maintained by Proxecto Trasno (https://trasno.gal) under the coordination of Antón Méixome (from march,2011)
 
 About lingüistic normative
 --------------------------

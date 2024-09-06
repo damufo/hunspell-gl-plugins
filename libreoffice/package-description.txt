@@ -1,6 +1,6 @@
 O corrector con tecnoloxía hunspell de Trasno habilita a corrección ortográfica, guionización e sinónimos en idioma galego.
 
-Edición «Francisco Mirás»
+Edición «2023.05.1»
 
 (c) Proxecto Trasno
 Proxecto Trasno agradece as colaboracións da comunidade.
